@@ -4,7 +4,7 @@ Using different Machine learning models and choosing the best one which fits bet
 
 # Editors
 
--juptyer notebook(.ipynb model)
+-juptyer notebook(.ipynb model) 
 
 vscode-(server and utils for flask server)
 
