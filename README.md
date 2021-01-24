@@ -6,6 +6,6 @@ Using different Machine learning models and choosing the best one which fits bet
 
 -juptyer notebook(.ipynb model) 
 
-vscode-(server and utils for flask server)
+vscode-(server and utils for flask server) 
 
 ![alt text](https://logicalidea.co/wp-content/uploads/2018/01/Why-Python-For-Machine-Learning.jpg)
