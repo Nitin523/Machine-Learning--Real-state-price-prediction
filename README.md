@@ -1,6 +1,6 @@
 # Machine-Learning--Real-state-price-prediction
 
-Using different Machine learning models and choosing the best one which fits better
+Using different Machine learning models and choosing the best one which fits better 
 
 # Editors
 
