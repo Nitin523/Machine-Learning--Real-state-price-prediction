@@ -24,7 +24,7 @@ def predict_home_price():
     })
     response.headers.add('Access-Control-Allow-Origin', '*')
 
-    return response
+    return response 
 
 if __name__ == "__main__":
     print("Starting Python Flask Server For Home Price Prediction...")
